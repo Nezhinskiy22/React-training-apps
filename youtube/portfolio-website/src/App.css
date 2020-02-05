@@ -123,3 +123,10 @@
   font-size: 66px;
   padding-right: 5rem;
 }
+
+/* Resume */
+.resume-right-col {
+  background: #27221f;
+  color: #fff;
+  padding: 2em;
+}
